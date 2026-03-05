@@ -1,0 +1,8 @@
+name: upsaclay-m1-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - -r requirements.txt
