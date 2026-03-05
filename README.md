@@ -1,6 +1,4 @@
-# UP Saclay M1 - ML Mini Project
 
-A compact, reproducible ML project for an M1 application package. It includes data preprocessing, training, evaluation, error analysis, logs, tests, and a minimal deployment route.
 
 ## Project structure
 
