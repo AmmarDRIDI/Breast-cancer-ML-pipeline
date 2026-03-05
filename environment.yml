@@ -1,4 +1,4 @@
-name: upsaclay-m1-ml
+name: Breast-cancer-ML-pipeline
 channels:
   - conda-forge
 dependencies:
