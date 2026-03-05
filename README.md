@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ```bash
 conda env create -f environment.yml
-conda activate upsaclay-m1-ml
+conda activate Breast-cancer-ML-pipeline
 ```
 
 ## Train
